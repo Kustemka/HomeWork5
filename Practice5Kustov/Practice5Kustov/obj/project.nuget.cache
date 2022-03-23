@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tj5GsDFQ0UYYDpLtvgSsr5DpOohWNpS/DF9vbwHQ4h71wuYwKQ58Bz3vgNXL46m92Rqz5xIpAAcrOlGxxVc/Rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kysti\\source\\repos\\Practice5Kustov\\Practice5Kustov\\Practice5Kustov.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kysti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
